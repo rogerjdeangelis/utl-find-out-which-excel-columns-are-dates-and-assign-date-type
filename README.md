@@ -7,7 +7,7 @@ Find out which excel columns are dates and assign date type
     You want to know which columns are excel dates and set datatypes.                                                                   
                                                                                                                                         
        Process                                                                                                                          
-           1. create workbook sheet with problematic forst record                                                                       
+           1. create workbook sheet with problematic first  data record                                                                 
            2. Determine which columns are dates.                                                                                        
            3. Use firstobs=2 to ignore problematic record.                                                                              
                                                                                                                                         
